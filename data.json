@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "verbos": {
+    "volere": {
+      "traduccion": "querer",
+      "conjugaciones": {
+        "io": {"italiano": "voglio", "espanol": "yo quiero"},
+        "tu": {"italiano": "vuoi", "espanol": "tú quieres"},
+        "lui/lei": {"italiano": "vuole", "espanol": "él/ella quiere"},
+        "noi": {"italiano": "vogliamo", "espanol": "nosotros queremos"},
+        "voi": {"italiano": "volete", "espanol": "ustedes quieren"},
+        "loro": {"italiano": "vogliono", "espanol": "ellos quieren"}
+      }
+    },
+    "essere": {
+      "traduccion": "ser/estar",
+      "conjugaciones": {
+        "io": {"italiano": "sono", "espanol": "yo soy/estoy"},
+        "tu": {"italiano": "sei", "espanol": "tú eres/estás"},
+        "lui/lei": {"italiano": "è", "espanol": "él/ella es/está"},
+        "noi": {"italiano": "siamo", "espanol": "nosotros somos/estamos"},
+        "voi": {"italiano": "siete", "espanol": "ustedes son/están"},
+        "loro": {"italiano": "sono", "espanol": "ellos son/están"}
+      }
+    }
+  }
+}
