@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "verbos": {
     "volere": {
       "traduccion": "querer",
@@ -32,6 +32,17 @@
         "noi": {"italiano": "andiamo", "espanol": "nosotros vamos"},
         "voi": {"italiano": "andate", "espanol": "ustedes van"},
         "loro": {"italiano": "vanno", "espanol": "ellos van"}
+      }
+    },
+    "fare": {
+      "traduccion": "hacer",
+      "conjugaciones": {
+        "io": {"italiano": "faccio", "espanol": "yo hago"},
+        "tu": {"italiano": "fai", "espanol": "tú haces"},
+        "lui/lei": {"italiano": "fa", "espanol": "él/ella hace"},
+        "noi": {"italiano": "facciamo", "espanol": "nosotros hacemos"},
+        "voi": {"italiano": "fate", "espanol": "ustedes hacen"},
+        "loro": {"italiano": "fanno", "espanol": "ellos hacen"}
       }
     }
   }
