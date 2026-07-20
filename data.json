@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "verbos": {
     "volere": {
       "traduccion": "querer",
@@ -21,6 +21,17 @@
         "noi": {"italiano": "siamo", "espanol": "nosotros somos/estamos"},
         "voi": {"italiano": "siete", "espanol": "ustedes son/están"},
         "loro": {"italiano": "sono", "espanol": "ellos son/están"}
+      }
+    },
+    "andare": {
+      "traduccion": "ir",
+      "conjugaciones": {
+        "io": {"italiano": "vado", "espanol": "yo voy"},
+        "tu": {"italiano": "vai", "espanol": "tú vas"},
+        "lui/lei": {"italiano": "va", "espanol": "él/ella va"},
+        "noi": {"italiano": "andiamo", "espanol": "nosotros vamos"},
+        "voi": {"italiano": "andate", "espanol": "ustedes van"},
+        "loro": {"italiano": "vanno", "espanol": "ellos van"}
       }
     }
   }
