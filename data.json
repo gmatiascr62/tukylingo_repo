@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "verbos": {
     "volere": {
       "traduccion": "querer",
@@ -35,6 +35,43 @@
           "noi": {"italiano": "vorremo", "espanol": "nosotros querremos"},
           "voi": {"italiano": "vorrete", "espanol": "ustedes querrán"},
           "loro": {"italiano": "vorranno", "espanol": "ellos querrán"}
+        }
+      }
+    },
+    "fare": {
+      "traduccion": "hacer",
+      "tiempos": {
+        "presente": {
+          "io": {"italiano": "faccio", "espanol": "yo hago"},
+          "tu": {"italiano": "fai", "espanol": "tú haces"},
+          "lui/lei": {"italiano": "fa", "espanol": "él/ella hace"},
+          "noi": {"italiano": "facciamo", "espanol": "nosotros hacemos"},
+          "voi": {"italiano": "fate", "espanol": "ustedes hacen"},
+          "loro": {"italiano": "fanno", "espanol": "ellos hacen"}
+        },
+        "passato_prossimo": {
+          "io": {"italiano": "ho fatto", "espanol": "yo hice"},
+          "tu": {"italiano": "hai fatto", "espanol": "tú hiciste"},
+          "lui/lei": {"italiano": "ha fatto", "espanol": "él/ella hizo"},
+          "noi": {"italiano": "abbiamo fatto", "espanol": "nosotros hicimos"},
+          "voi": {"italiano": "avete fatto", "espanol": "ustedes hicieron"},
+          "loro": {"italiano": "hanno fatto", "espanol": "ellos hicieron"}
+        },
+        "imperfetto": {
+          "io": {"italiano": "facevo", "espanol": "yo hacía"},
+          "tu": {"italiano": "facevi", "espanol": "tú hacías"},
+          "lui/lei": {"italiano": "faceva", "espanol": "él/ella hacía"},
+          "noi": {"italiano": "facevamo", "espanol": "nosotros hacíamos"},
+          "voi": {"italiano": "facevate", "espanol": "ustedes hacían"},
+          "loro": {"italiano": "facevano", "espanol": "ellos hacían"}
+        },
+        "futuro_semplice": {
+          "io": {"italiano": "farò", "espanol": "yo haré"},
+          "tu": {"italiano": "farai", "espanol": "tú harás"},
+          "lui/lei": {"italiano": "farà", "espanol": "él/ella hará"},
+          "noi": {"italiano": "faremo", "espanol": "nosotros haremos"},
+          "voi": {"italiano": "farete", "espanol": "ustedes harán"},
+          "loro": {"italiano": "faranno", "espanol": "ellos harán"}
         }
       }
     }
