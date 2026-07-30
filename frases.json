@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "frases": [
   {
    "verbo": "volere",
@@ -8000,6 +8000,4006 @@
    "espanol": "Teniendo trabajo, estoy tranquilo",
    "italiano": "Avendo lavoro, sono tranquillo",
    "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo mucho calor",
+   "italiano": "Ho molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo miedo de noche",
+   "italiano": "Ho paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo razón esta vez",
+   "italiano": "Ho ragione questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo suerte hoy",
+   "italiano": "Ho fortuna oggi",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo apuro",
+   "italiano": "Ho fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "No tengo ganas",
+   "italiano": "Non ho voglia",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo un teléfono viejo",
+   "italiano": "Ho un telefono vecchio",
+   "pista": "viejo = vecchio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo muchos libros",
+   "italiano": "Ho molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo una bici roja",
+   "italiano": "Ho una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo dolor de cabeza",
+   "italiano": "Ho mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo fiebre hoy",
+   "italiano": "Ho la febbre oggi",
+   "pista": "fiebre = febbre"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo una hermana chica",
+   "italiano": "Ho una sorella piccola",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo un examen mañana",
+   "italiano": "Ho un esame domani",
+   "pista": "un examen = un esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo clase a las ocho",
+   "italiano": "Ho lezione alle otto",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo zapatos nuevos",
+   "italiano": "Ho scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo una mochila azul",
+   "italiano": "Ho uno zaino blu",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo un lápiz acá",
+   "italiano": "Ho una matita qui",
+   "pista": "lápiz = matita"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo mucho trabajo mañana",
+   "italiano": "Ho molto lavoro domani",
+   "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo una idea",
+   "italiano": "Ho un'idea",
+   "pista": "una idea = un'idea"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "io",
+   "espanol": "Tengo dos primos",
+   "italiano": "Ho due cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes calor?",
+   "italiano": "Hai caldo?",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes miedo?",
+   "italiano": "Hai paura?",
+   "pista": "miedo = paura"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes suerte hoy",
+   "italiano": "Hai fortuna oggi",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes apuro?",
+   "italiano": "Hai fretta?",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes ganas de salir?",
+   "italiano": "Hai voglia di uscire?",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes el teléfono roto",
+   "italiano": "Hai il telefono rotto",
+   "pista": "roto = rotto"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes muchos libros",
+   "italiano": "Hai molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes un lápiz?",
+   "italiano": "Hai una matita?",
+   "pista": "lápiz = matita"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes dolor de cabeza?",
+   "italiano": "Hai mal di testa?",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes fiebre hoy?",
+   "italiano": "Hai la febbre oggi?",
+   "pista": "fiebre = febbre"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes una hermana chica",
+   "italiano": "Hai una sorella piccola",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes un examen mañana",
+   "italiano": "Hai un esame domani",
+   "pista": "un examen = un esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes clase hoy?",
+   "italiano": "Hai lezione oggi?",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes zapatos nuevos",
+   "italiano": "Hai scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes mi mochila?",
+   "italiano": "Hai il mio zaino?",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes mucho trabajo hoy",
+   "italiano": "Hai molto lavoro oggi",
+   "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes razón otra vez",
+   "italiano": "Hai ragione un'altra volta",
+   "pista": "otra vez = un'altra volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes tiempo ahora?",
+   "italiano": "Hai tempo adesso?",
+   "pista": "ahora = adesso"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "Tienes dos primos",
+   "italiano": "Hai due cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "tu",
+   "espanol": "¿Tienes hambre todavía?",
+   "italiano": "Hai ancora fame?",
+   "pista": "todavía = ancora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Él tiene mucho calor",
+   "italiano": "Lui ha molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene miedo de noche",
+   "italiano": "Lei ha paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Mi papá tiene apuro",
+   "italiano": "Mio papà ha fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene suerte hoy",
+   "italiano": "Lei ha fortuna oggi",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Él no tiene ganas",
+   "italiano": "Lui non ha voglia",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Mi hermano tiene un teléfono",
+   "italiano": "Mio fratello ha un telefono",
+   "pista": "hermano = fratello"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene muchos libros",
+   "italiano": "Lei ha molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Él tiene una bici roja",
+   "italiano": "Lui ha una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene dolor de cabeza",
+   "italiano": "Lei ha mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "El nene tiene fiebre",
+   "italiano": "Il bambino ha la febbre",
+   "pista": "fiebre = febbre"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Mi prima tiene tres hijos",
+   "italiano": "Mia cugina ha tre figli",
+   "pista": "hijos = figli"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene un examen mañana",
+   "italiano": "Lei ha un esame domani",
+   "pista": "un examen = un esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Él tiene clase a las ocho",
+   "italiano": "Lui ha lezione alle otto",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene zapatos nuevos",
+   "italiano": "Lei ha scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "El nene tiene una mochila",
+   "italiano": "Il bambino ha uno zaino",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Mi vecina tiene un gato",
+   "italiano": "La mia vicina ha un gatto",
+   "pista": "vecina = vicina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Ella tiene una buena idea",
+   "italiano": "Lei ha una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Él tiene tiempo ahora",
+   "italiano": "Lui ha tempo adesso",
+   "pista": "ahora = adesso"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "El perro tiene sed",
+   "italiano": "Il cane ha sete",
+   "pista": "perro = cane"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "lui/lei",
+   "espanol": "Mi abuela tiene una casa vieja",
+   "italiano": "Mia nonna ha una casa vecchia",
+   "pista": "vieja = vecchia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos mucho calor",
+   "italiano": "Abbiamo molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos miedo de noche",
+   "italiano": "Abbiamo paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos suerte hoy",
+   "italiano": "Abbiamo fortuna oggi",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos apuro",
+   "italiano": "Abbiamo fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "No tenemos ganas",
+   "italiano": "Non abbiamo voglia",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos dos teléfonos",
+   "italiano": "Abbiamo due telefoni",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos muchos libros",
+   "italiano": "Abbiamo molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos una bici roja",
+   "italiano": "Abbiamo una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos dolor de cabeza",
+   "italiano": "Abbiamo mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos fiebre hoy",
+   "italiano": "Abbiamo la febbre oggi",
+   "pista": "fiebre = febbre"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos una hermana chica",
+   "italiano": "Abbiamo una sorella piccola",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos un examen mañana",
+   "italiano": "Abbiamo un esame domani",
+   "pista": "un examen = un esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos clase a las ocho",
+   "italiano": "Abbiamo lezione alle otto",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos zapatos nuevos",
+   "italiano": "Abbiamo scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos dos mochilas",
+   "italiano": "Abbiamo due zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos razón esta vez",
+   "italiano": "Abbiamo ragione questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos una buena idea",
+   "italiano": "Abbiamo una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos tiempo ahora",
+   "italiano": "Abbiamo tempo adesso",
+   "pista": "ahora = adesso"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos tres primos",
+   "italiano": "Abbiamo tre cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "noi",
+   "espanol": "Tenemos hambre todavía",
+   "italiano": "Abbiamo ancora fame",
+   "pista": "todavía = ancora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen calor?",
+   "italiano": "Avete caldo?",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen miedo de noche?",
+   "italiano": "Avete paura di notte?",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen suerte hoy",
+   "italiano": "Avete fortuna oggi",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen apuro?",
+   "italiano": "Avete fretta?",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen ganas de salir?",
+   "italiano": "Avete voglia di uscire?",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen dos teléfonos",
+   "italiano": "Avete due telefoni",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen muchos libros",
+   "italiano": "Avete molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen un lápiz",
+   "italiano": "Avete una matita",
+   "pista": "lápiz = matita"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen dolor de cabeza?",
+   "italiano": "Avete mal di testa?",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen fiebre hoy",
+   "italiano": "Avete la febbre oggi",
+   "pista": "fiebre = febbre"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen una hermana",
+   "italiano": "Avete una sorella",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen un examen mañana?",
+   "italiano": "Avete un esame domani?",
+   "pista": "un examen = un esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen clase hoy?",
+   "italiano": "Avete lezione oggi?",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen zapatos nuevos",
+   "italiano": "Avete scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen mi mochila?",
+   "italiano": "Avete il mio zaino?",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen razón otra vez",
+   "italiano": "Avete ragione un'altra volta",
+   "pista": "otra vez = un'altra volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen una buena idea",
+   "italiano": "Avete una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen tiempo ahora?",
+   "italiano": "Avete tempo adesso?",
+   "pista": "ahora = adesso"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "Ustedes tienen tres primos",
+   "italiano": "Avete tre cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "voi",
+   "espanol": "¿Tienen hambre todavía?",
+   "italiano": "Avete ancora fame?",
+   "pista": "todavía = ancora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen mucho calor",
+   "italiano": "Loro hanno molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Los nenes tienen miedo",
+   "italiano": "I bambini hanno paura",
+   "pista": "miedo = paura"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen suerte hoy",
+   "italiano": "Hanno fortuna oggi",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen apuro",
+   "italiano": "Loro hanno fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos no tienen ganas",
+   "italiano": "Non hanno voglia",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen dos teléfonos",
+   "italiano": "Hanno due telefoni",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen muchos libros",
+   "italiano": "Hanno molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Los nenes tienen una pelota",
+   "italiano": "I bambini hanno una palla",
+   "pista": "pelota = palla"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen dolor de cabeza",
+   "italiano": "Hanno mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Los nenes tienen fiebre",
+   "italiano": "I bambini hanno la febbre",
+   "pista": "fiebre = febbre"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Mis abuelos tienen una casa",
+   "italiano": "I miei nonni hanno una casa",
+   "pista": "abuelos = nonni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen un examen mañana",
+   "italiano": "Hanno un esame domani",
+   "pista": "un examen = un esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen clase a las ocho",
+   "italiano": "Hanno lezione alle otto",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Las nenas tienen zapatos nuevos",
+   "italiano": "Le bambine hanno scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Los nenes tienen mochilas",
+   "italiano": "I bambini hanno gli zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen razón esta vez",
+   "italiano": "Hanno ragione questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen una buena idea",
+   "italiano": "Hanno una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Ellos tienen tiempo ahora",
+   "italiano": "Hanno tempo adesso",
+   "pista": "ahora = adesso"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Mis vecinos tienen un perro",
+   "italiano": "I miei vicini hanno un cane",
+   "pista": "vecinos = vicini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "presente",
+   "persona": "loro",
+   "espanol": "Los perros tienen sed",
+   "italiano": "I cani hanno sete",
+   "pista": "perros = cani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve mucho calor ayer",
+   "italiano": "Ho avuto molto caldo ieri",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve apuro esta mañana",
+   "italiano": "Ho avuto fretta stamattina",
+   "pista": "esta mañana = stamattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve suerte en el examen",
+   "italiano": "Ho avuto fortuna all'esame",
+   "pista": "el examen = l'esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve dolor de cabeza",
+   "italiano": "Ho avuto mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve una idea buena",
+   "italiano": "Ho avuto una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve un problema con el teléfono",
+   "italiano": "Ho avuto un problema col telefono",
+   "pista": "con el = col"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve clase toda la mañana",
+   "italiano": "Ho avuto lezione tutta la mattina",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve paciencia con él",
+   "italiano": "Ho avuto pazienza con lui",
+   "pista": "con él = con lui"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve una bici de chico",
+   "italiano": "Ho avuto una bici da piccolo",
+   "pista": "de chico = da piccolo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve muchos amigos entonces",
+   "italiano": "Ho avuto molti amici allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve un perro chico",
+   "italiano": "Ho avuto un cane piccolo",
+   "pista": "perro = cane"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve dos gatos antes",
+   "italiano": "Ho avuto due gatti prima",
+   "pista": "antes = prima"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve miedo en el avión",
+   "italiano": "Ho avuto paura in aereo",
+   "pista": "el avión = l'aereo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve mucha plata entonces",
+   "italiano": "Ho avuto molti soldi allora",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve tiempo el sábado",
+   "italiano": "Ho avuto tempo sabato",
+   "pista": "el sábado = sabato"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve un auto viejo",
+   "italiano": "Ho avuto una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve ganas de salir",
+   "italiano": "Ho avuto voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve un examen difícil",
+   "italiano": "Ho avuto un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "Tuve sueño toda la tarde",
+   "italiano": "Ho avuto sonno tutto il pomeriggio",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "io",
+   "espanol": "No tuve suerte esta vez",
+   "italiano": "Non ho avuto fortuna questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste mucho calor ayer",
+   "italiano": "Hai avuto molto caldo ieri",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste apuro esta mañana",
+   "italiano": "Hai avuto fretta stamattina",
+   "pista": "esta mañana = stamattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste suerte en el examen",
+   "italiano": "Hai avuto fortuna all'esame",
+   "pista": "el examen = l'esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "¿Tuviste dolor de cabeza?",
+   "italiano": "Hai avuto mal di testa?",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste una idea buena",
+   "italiano": "Hai avuto una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste un problema con el auto",
+   "italiano": "Hai avuto un problema con la macchina",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "¿Tuviste clase hoy?",
+   "italiano": "Hai avuto lezione oggi?",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste paciencia con todos",
+   "italiano": "Hai avuto pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste una bici roja",
+   "italiano": "Hai avuto una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste muchos amigos entonces",
+   "italiano": "Hai avuto molti amici allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "¿Tuviste un gato antes?",
+   "italiano": "Hai avuto un gatto prima?",
+   "pista": "antes = prima"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste miedo en el avión",
+   "italiano": "Hai avuto paura in aereo",
+   "pista": "el avión = l'aereo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste mucha plata entonces",
+   "italiano": "Hai avuto molti soldi allora",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "¿Tuviste tiempo el sábado?",
+   "italiano": "Hai avuto tempo sabato?",
+   "pista": "el sábado = sabato"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste un auto viejo",
+   "italiano": "Hai avuto una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste ganas de venir",
+   "italiano": "Hai avuto voglia di venire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste un examen difícil",
+   "italiano": "Hai avuto un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "Tuviste sueño toda la tarde",
+   "italiano": "Hai avuto sonno tutto il pomeriggio",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "No tuviste suerte esta vez",
+   "italiano": "Non hai avuto fortuna questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "tu",
+   "espanol": "¿Tuviste calor anoche?",
+   "italiano": "Hai avuto caldo ieri sera?",
+   "pista": "anoche = ieri sera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo mucho calor ayer",
+   "italiano": "Lui ha avuto molto caldo ieri",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo apuro esta mañana",
+   "italiano": "Lei ha avuto fretta stamattina",
+   "pista": "esta mañana = stamattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo suerte en el examen",
+   "italiano": "Lui ha avuto fortuna all'esame",
+   "pista": "el examen = l'esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo dolor de cabeza",
+   "italiano": "Lei ha avuto mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo una idea buena",
+   "italiano": "Lui ha avuto una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Mi papá tuvo un problema",
+   "italiano": "Mio papà ha avuto un problema",
+   "pista": "papá = papà"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo clase toda la mañana",
+   "italiano": "Lei ha avuto lezione tutta la mattina",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Mi hermana tuvo paciencia",
+   "italiano": "Mia sorella ha avuto pazienza",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo una bici roja",
+   "italiano": "Lui ha avuto una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo muchos amigos",
+   "italiano": "Lei ha avuto molti amici",
+   "pista": "amigos = amici"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Mi abuelo tuvo dos perros",
+   "italiano": "Mio nonno ha avuto due cani",
+   "pista": "abuelo = nonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo miedo en el avión",
+   "italiano": "Lei ha avuto paura in aereo",
+   "pista": "el avión = l'aereo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo mucha plata entonces",
+   "italiano": "Lui ha avuto molti soldi allora",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo tiempo el sábado",
+   "italiano": "Lei ha avuto tempo sabato",
+   "pista": "el sábado = sabato"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo un auto viejo",
+   "italiano": "Lui ha avuto una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella tuvo ganas de salir",
+   "italiano": "Lei ha avuto voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Él tuvo un examen difícil",
+   "italiano": "Lui ha avuto un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "El nene tuvo sueño temprano",
+   "italiano": "Il bambino ha avuto sonno presto",
+   "pista": "el nene = il bambino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Ella no tuvo suerte",
+   "italiano": "Lei non ha avuto fortuna",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "lui/lei",
+   "espanol": "Mi vecina tuvo un hijo",
+   "italiano": "La mia vicina ha avuto un figlio",
+   "pista": "vecina = vicina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos mucho calor ayer",
+   "italiano": "Abbiamo avuto molto caldo ieri",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos apuro esta mañana",
+   "italiano": "Abbiamo avuto fretta stamattina",
+   "pista": "esta mañana = stamattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos suerte en el examen",
+   "italiano": "Abbiamo avuto fortuna all'esame",
+   "pista": "el examen = l'esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos dolor de cabeza",
+   "italiano": "Abbiamo avuto mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos una idea buena",
+   "italiano": "Abbiamo avuto una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos un problema con el auto",
+   "italiano": "Abbiamo avuto un problema con la macchina",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos clase toda la mañana",
+   "italiano": "Abbiamo avuto lezione tutta la mattina",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos paciencia con todos",
+   "italiano": "Abbiamo avuto pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos dos bicis",
+   "italiano": "Abbiamo avuto due bici",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos muchos amigos entonces",
+   "italiano": "Abbiamo avuto molti amici allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos un perro de chicos",
+   "italiano": "Abbiamo avuto un cane da piccoli",
+   "pista": "de chicos = da piccoli"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos miedo en el viaje",
+   "italiano": "Abbiamo avuto paura in viaggio",
+   "pista": "el viaje = il viaggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos mucha plata entonces",
+   "italiano": "Abbiamo avuto molti soldi allora",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos tiempo el sábado",
+   "italiano": "Abbiamo avuto tempo sabato",
+   "pista": "el sábado = sabato"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos un auto viejo",
+   "italiano": "Abbiamo avuto una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos ganas de volver",
+   "italiano": "Abbiamo avuto voglia di tornare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos un examen difícil",
+   "italiano": "Abbiamo avuto un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos sueño toda la tarde",
+   "italiano": "Abbiamo avuto sonno tutto il pomeriggio",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "No tuvimos suerte esta vez",
+   "italiano": "Non abbiamo avuto fortuna questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "noi",
+   "espanol": "Tuvimos calor anoche",
+   "italiano": "Abbiamo avuto caldo ieri sera",
+   "pista": "anoche = ieri sera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "¿Tuvieron calor ayer?",
+   "italiano": "Avete avuto caldo ieri?",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron apuro",
+   "italiano": "Avete avuto fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron suerte en el examen",
+   "italiano": "Avete avuto fortuna all'esame",
+   "pista": "el examen = l'esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "¿Tuvieron dolor de cabeza?",
+   "italiano": "Avete avuto mal di testa?",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron una idea buena",
+   "italiano": "Avete avuto una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron clase hoy",
+   "italiano": "Avete avuto lezione oggi",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron paciencia con todos",
+   "italiano": "Avete avuto pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "¿Tuvieron una bici antes?",
+   "italiano": "Avete avuto una bici prima?",
+   "pista": "antes = prima"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron muchos amigos",
+   "italiano": "Avete avuto molti amici",
+   "pista": "amigos = amici"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron dos gatos",
+   "italiano": "Avete avuto due gatti",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron miedo en el avión",
+   "italiano": "Avete avuto paura in aereo",
+   "pista": "el avión = l'aereo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron mucha plata",
+   "italiano": "Avete avuto molti soldi",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "¿Tuvieron tiempo el sábado?",
+   "italiano": "Avete avuto tempo sabato?",
+   "pista": "el sábado = sabato"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron un auto viejo",
+   "italiano": "Avete avuto una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "¿Tuvieron ganas de venir?",
+   "italiano": "Avete avuto voglia di venire?",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron un examen difícil",
+   "italiano": "Avete avuto un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron sueño temprano",
+   "italiano": "Avete avuto sonno presto",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes no tuvieron suerte",
+   "italiano": "Non avete avuto fortuna",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "Ustedes tuvieron razón siempre",
+   "italiano": "Avete avuto sempre ragione",
+   "pista": "razón = ragione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "voi",
+   "espanol": "¿Tuvieron frío en la playa?",
+   "italiano": "Avete avuto freddo al mare?",
+   "pista": "la playa = il mare"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron mucho calor",
+   "italiano": "Hanno avuto molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron apuro",
+   "italiano": "Loro hanno avuto fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron suerte en el examen",
+   "italiano": "Hanno avuto fortuna all'esame",
+   "pista": "el examen = l'esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron dolor de cabeza",
+   "italiano": "Hanno avuto mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron una idea buena",
+   "italiano": "Hanno avuto una buona idea",
+   "pista": "buena = buona"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Los nenes tuvieron clase",
+   "italiano": "I bambini hanno avuto lezione",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron paciencia con todos",
+   "italiano": "Hanno avuto pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Los nenes tuvieron una bici",
+   "italiano": "I bambini hanno avuto una bici",
+   "pista": "los nenes = i bambini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron muchos amigos",
+   "italiano": "Hanno avuto molti amici",
+   "pista": "amigos = amici"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Mis abuelos tuvieron dos perros",
+   "italiano": "I miei nonni hanno avuto due cani",
+   "pista": "abuelos = nonni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron miedo en el avión",
+   "italiano": "Hanno avuto paura in aereo",
+   "pista": "el avión = l'aereo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron mucha plata",
+   "italiano": "Hanno avuto molti soldi",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron tiempo el sábado",
+   "italiano": "Hanno avuto tempo sabato",
+   "pista": "el sábado = sabato"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron un auto viejo",
+   "italiano": "Hanno avuto una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron ganas de volver",
+   "italiano": "Hanno avuto voglia di tornare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron un examen difícil",
+   "italiano": "Hanno avuto un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Los nenes tuvieron sueño temprano",
+   "italiano": "I bambini hanno avuto sonno presto",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos no tuvieron suerte",
+   "italiano": "Non hanno avuto fortuna",
+   "pista": "suerte = fortuna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Mis vecinos tuvieron un hijo",
+   "italiano": "I miei vicini hanno avuto un figlio",
+   "pista": "vecinos = vicini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "passato_prossimo",
+   "persona": "loro",
+   "espanol": "Ellos tuvieron calor anoche",
+   "italiano": "Hanno avuto caldo ieri sera",
+   "pista": "anoche = ieri sera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía mucho calor",
+   "italiano": "Avevo molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía apuro siempre",
+   "italiano": "Avevo sempre fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía suerte entonces",
+   "italiano": "Avevo fortuna allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía dolor de cabeza",
+   "italiano": "Avevo mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía muchos libros",
+   "italiano": "Avevo molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía una bici roja",
+   "italiano": "Avevo una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía clase los lunes",
+   "italiano": "Avevo lezione il lunedì",
+   "pista": "los lunes = il lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía paciencia con todos",
+   "italiano": "Avevo pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía cinco años entonces",
+   "italiano": "Avevo cinque anni allora",
+   "pista": "cinco = cinque"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía un auto viejo",
+   "italiano": "Avevo una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía ganas de salir",
+   "italiano": "Avevo voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía un examen difícil",
+   "italiano": "Avevo un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía sueño a la tarde",
+   "italiano": "Avevo sonno il pomeriggio",
+   "pista": "a la tarde = il pomeriggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía una hermana chica",
+   "italiano": "Avevo una sorella piccola",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía zapatos viejos",
+   "italiano": "Avevo scarpe vecchie",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía una mochila azul",
+   "italiano": "Avevo uno zaino blu",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía miedo del perro",
+   "italiano": "Avevo paura del cane",
+   "pista": "perro = cane"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía mucho trabajo entonces",
+   "italiano": "Avevo molto lavoro allora",
+   "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "No tenía tiempo nunca",
+   "italiano": "Non avevo mai tempo",
+   "pista": "nunca = mai"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "io",
+   "espanol": "Tenía dos primos chicos",
+   "italiano": "Avevo due cugini piccoli",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías mucho calor",
+   "italiano": "Avevi molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías apuro siempre",
+   "italiano": "Avevi sempre fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías suerte entonces",
+   "italiano": "Avevi fortuna allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías dolor de cabeza",
+   "italiano": "Avevi mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías muchos libros",
+   "italiano": "Avevi molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías una bici roja",
+   "italiano": "Avevi una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías clase los lunes",
+   "italiano": "Avevi lezione il lunedì",
+   "pista": "los lunes = il lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías paciencia con todos",
+   "italiano": "Avevi pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías ocho años entonces",
+   "italiano": "Avevi otto anni allora",
+   "pista": "ocho = otto"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías un auto viejo",
+   "italiano": "Avevi una macchina vecchia",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías ganas de salir",
+   "italiano": "Avevi voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías un examen difícil",
+   "italiano": "Avevi un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías sueño a la tarde",
+   "italiano": "Avevi sonno il pomeriggio",
+   "pista": "a la tarde = il pomeriggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías un hermano mayor",
+   "italiano": "Avevi un fratello maggiore",
+   "pista": "mayor = maggiore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías el pelo rubio",
+   "italiano": "Avevi i capelli biondi",
+   "pista": "rubio = biondi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías un cuaderno viejo",
+   "italiano": "Avevi un quaderno vecchio",
+   "pista": "viejo = vecchio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías miedo del gato",
+   "italiano": "Avevi paura del gatto",
+   "pista": "miedo = paura"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías mucho trabajo entonces",
+   "italiano": "Avevi molto lavoro allora",
+   "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "No tenías tiempo nunca",
+   "italiano": "Non avevi mai tempo",
+   "pista": "nunca = mai"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "tu",
+   "espanol": "Tenías tres primos",
+   "italiano": "Avevi tre cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Él tenía mucho calor",
+   "italiano": "Lui aveva molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía apuro siempre",
+   "italiano": "Lei aveva sempre fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Él tenía suerte entonces",
+   "italiano": "Lui aveva fortuna allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía dolor de cabeza",
+   "italiano": "Lei aveva mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Mi papá tenía muchos libros",
+   "italiano": "Mio papà aveva molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía una bici roja",
+   "italiano": "Lei aveva una bici rossa",
+   "pista": "roja = rossa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Él tenía clase los lunes",
+   "italiano": "Lui aveva lezione il lunedì",
+   "pista": "los lunes = il lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Mi abuela tenía paciencia",
+   "italiano": "Mia nonna aveva pazienza",
+   "pista": "abuela = nonna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía treinta años",
+   "italiano": "Lei aveva trent'anni",
+   "pista": "treinta años = trent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Mi tío tenía un auto viejo",
+   "italiano": "Mio zio aveva una macchina vecchia",
+   "pista": "tío = zio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Él tenía ganas de salir",
+   "italiano": "Lui aveva voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía un examen difícil",
+   "italiano": "Lei aveva un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "El nene tenía sueño",
+   "italiano": "Il bambino aveva sonno",
+   "pista": "el nene = il bambino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía un hermano mayor",
+   "italiano": "Lei aveva un fratello maggiore",
+   "pista": "mayor = maggiore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Él tenía el pelo rubio",
+   "italiano": "Lui aveva i capelli biondi",
+   "pista": "rubio = biondi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella tenía una mochila azul",
+   "italiano": "Lei aveva uno zaino blu",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "El nene tenía miedo del perro",
+   "italiano": "Il bambino aveva paura del cane",
+   "pista": "miedo = paura"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Mi mamá tenía mucho trabajo",
+   "italiano": "Mia mamma aveva molto lavoro",
+   "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Ella no tenía tiempo nunca",
+   "italiano": "Lei non aveva mai tempo",
+   "pista": "nunca = mai"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "lui/lei",
+   "espanol": "Mi vecina tenía dos gatos",
+   "italiano": "La mia vicina aveva due gatti",
+   "pista": "vecina = vicina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos mucho calor",
+   "italiano": "Avevamo molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos apuro siempre",
+   "italiano": "Avevamo sempre fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos suerte entonces",
+   "italiano": "Avevamo fortuna allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos dolor de cabeza",
+   "italiano": "Avevamo mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos muchos libros",
+   "italiano": "Avevamo molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos dos bicis",
+   "italiano": "Avevamo due bici",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos clase los lunes",
+   "italiano": "Avevamo lezione il lunedì",
+   "pista": "los lunes = il lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos paciencia con todos",
+   "italiano": "Avevamo pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos quince años",
+   "italiano": "Avevamo quindici anni",
+   "pista": "quince = quindici"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos un auto chico",
+   "italiano": "Avevamo una macchina piccola",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos ganas de viajar",
+   "italiano": "Avevamo voglia di viaggiare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos un examen difícil",
+   "italiano": "Avevamo un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos sueño a la tarde",
+   "italiano": "Avevamo sonno il pomeriggio",
+   "pista": "a la tarde = il pomeriggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos un hermano mayor",
+   "italiano": "Avevamo un fratello maggiore",
+   "pista": "mayor = maggiore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos zapatos viejos",
+   "italiano": "Avevamo scarpe vecchie",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos dos mochilas",
+   "italiano": "Avevamo due zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos miedo del perro",
+   "italiano": "Avevamo paura del cane",
+   "pista": "perro = cane"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos una casa chica",
+   "italiano": "Avevamo una casa piccola",
+   "pista": "chica = piccola"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "No teníamos tiempo nunca",
+   "italiano": "Non avevamo mai tempo",
+   "pista": "nunca = mai"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "noi",
+   "espanol": "Teníamos tres primos",
+   "italiano": "Avevamo tre cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían mucho calor",
+   "italiano": "Avevate molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían apuro siempre",
+   "italiano": "Avevate sempre fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían suerte entonces",
+   "italiano": "Avevate fortuna allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "¿Tenían dolor de cabeza?",
+   "italiano": "Avevate mal di testa?",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían muchos libros",
+   "italiano": "Avevate molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían dos bicis",
+   "italiano": "Avevate due bici",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "¿Tenían clase los lunes?",
+   "italiano": "Avevate lezione il lunedì?",
+   "pista": "los lunes = il lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían paciencia con todos",
+   "italiano": "Avevate pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían quince años",
+   "italiano": "Avevate quindici anni",
+   "pista": "quince = quindici"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían un auto chico",
+   "italiano": "Avevate una macchina piccola",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "¿Tenían ganas de viajar?",
+   "italiano": "Avevate voglia di viaggiare?",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían un examen difícil",
+   "italiano": "Avevate un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían sueño temprano",
+   "italiano": "Avevate sonno presto",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían un hermano mayor",
+   "italiano": "Avevate un fratello maggiore",
+   "pista": "mayor = maggiore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían zapatos viejos",
+   "italiano": "Avevate scarpe vecchie",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían dos mochilas",
+   "italiano": "Avevate due zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "¿Tenían miedo del perro?",
+   "italiano": "Avevate paura del cane?",
+   "pista": "perro = cane"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían una casa chica",
+   "italiano": "Avevate una casa piccola",
+   "pista": "chica = piccola"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes nunca tenían tiempo",
+   "italiano": "Non avevate mai tempo",
+   "pista": "nunca = mai"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "voi",
+   "espanol": "Ustedes tenían tres primos",
+   "italiano": "Avevate tre cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían mucho calor",
+   "italiano": "Avevano molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían apuro siempre",
+   "italiano": "Avevano sempre fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían suerte entonces",
+   "italiano": "Avevano fortuna allora",
+   "pista": "entonces = allora"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían dolor de cabeza",
+   "italiano": "Avevano mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían muchos libros",
+   "italiano": "Avevano molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Los nenes tenían dos bicis",
+   "italiano": "I bambini avevano due bici",
+   "pista": "los nenes = i bambini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían clase los lunes",
+   "italiano": "Avevano lezione il lunedì",
+   "pista": "los lunes = il lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Mis abuelos tenían paciencia",
+   "italiano": "I miei nonni avevano pazienza",
+   "pista": "abuelos = nonni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían quince años",
+   "italiano": "Avevano quindici anni",
+   "pista": "quince = quindici"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Mis tíos tenían un auto chico",
+   "italiano": "I miei zii avevano una macchina piccola",
+   "pista": "tíos = zii"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían ganas de viajar",
+   "italiano": "Avevano voglia di viaggiare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían un examen difícil",
+   "italiano": "Avevano un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían sueño temprano",
+   "italiano": "Avevano sonno presto",
+   "pista": "temprano = presto"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían un hermano mayor",
+   "italiano": "Avevano un fratello maggiore",
+   "pista": "mayor = maggiore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Las nenas tenían zapatos viejos",
+   "italiano": "Le bambine avevano scarpe vecchie",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Los nenes tenían mochilas",
+   "italiano": "I bambini avevano gli zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían miedo del perro",
+   "italiano": "Avevano paura del cane",
+   "pista": "perro = cane"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Mis vecinos tenían una casa chica",
+   "italiano": "I miei vicini avevano una casa piccola",
+   "pista": "vecinos = vicini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos nunca tenían tiempo",
+   "italiano": "Non avevano mai tempo",
+   "pista": "nunca = mai"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "imperfetto",
+   "persona": "loro",
+   "espanol": "Ellos tenían tres primos",
+   "italiano": "Avevano tre cugini",
+   "pista": "primos = cugini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré mucho calor mañana",
+   "italiano": "Avrò molto caldo domani",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré apuro a la mañana",
+   "italiano": "Avrò fretta la mattina",
+   "pista": "a la mañana = la mattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré suerte esta vez",
+   "italiano": "Avrò fortuna questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré dolor de cabeza",
+   "italiano": "Avrò mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré muchos libros",
+   "italiano": "Avrò molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré una bici nueva",
+   "italiano": "Avrò una bici nuova",
+   "pista": "nueva = nuova"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré clase el lunes",
+   "italiano": "Avrò lezione lunedì",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré paciencia con él",
+   "italiano": "Avrò pazienza con lui",
+   "pista": "con él = con lui"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré treinta años pronto",
+   "italiano": "Avrò trent'anni presto",
+   "pista": "treinta años = trent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré un auto nuevo",
+   "italiano": "Avrò una macchina nuova",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré ganas de salir",
+   "italiano": "Avrò voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré un examen difícil",
+   "italiano": "Avrò un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré sueño a la tarde",
+   "italiano": "Avrò sonno il pomeriggio",
+   "pista": "a la tarde = il pomeriggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré una hermana chica",
+   "italiano": "Avrò una sorella piccola",
+   "pista": "hermana = sorella"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré zapatos nuevos",
+   "italiano": "Avrò scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré una mochila azul",
+   "italiano": "Avrò uno zaino blu",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré miedo de noche",
+   "italiano": "Avrò paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré mucho trabajo el lunes",
+   "italiano": "Avrò molto lavoro lunedì",
+   "pista": "el lunes = lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "No tendré tiempo mañana",
+   "italiano": "Non avrò tempo domani",
+   "pista": "mañana = domani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "io",
+   "espanol": "Tendré fiebre esta noche",
+   "italiano": "Avrò la febbre stasera",
+   "pista": "esta noche = stasera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás mucho calor mañana",
+   "italiano": "Avrai molto caldo domani",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás apuro a la mañana",
+   "italiano": "Avrai fretta la mattina",
+   "pista": "a la mañana = la mattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás suerte esta vez",
+   "italiano": "Avrai fortuna questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás dolor de cabeza",
+   "italiano": "Avrai mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás muchos libros",
+   "italiano": "Avrai molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás una bici nueva",
+   "italiano": "Avrai una bici nuova",
+   "pista": "nueva = nuova"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás clase el lunes",
+   "italiano": "Avrai lezione lunedì",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás paciencia con todos",
+   "italiano": "Avrai pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás veinte años pronto",
+   "italiano": "Avrai vent'anni presto",
+   "pista": "veinte años = vent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás un auto nuevo",
+   "italiano": "Avrai una macchina nuova",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás ganas de volver",
+   "italiano": "Avrai voglia di tornare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás un examen difícil",
+   "italiano": "Avrai un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás sueño a la tarde",
+   "italiano": "Avrai sonno il pomeriggio",
+   "pista": "a la tarde = il pomeriggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás un hermano menor",
+   "italiano": "Avrai un fratello minore",
+   "pista": "menor = minore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás zapatos nuevos",
+   "italiano": "Avrai scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás una mochila azul",
+   "italiano": "Avrai uno zaino blu",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás miedo de noche",
+   "italiano": "Avrai paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás mucho trabajo el lunes",
+   "italiano": "Avrai molto lavoro lunedì",
+   "pista": "el lunes = lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "No tendrás tiempo mañana",
+   "italiano": "Non avrai tempo domani",
+   "pista": "mañana = domani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "tu",
+   "espanol": "Tendrás fiebre esta noche",
+   "italiano": "Avrai la febbre stasera",
+   "pista": "esta noche = stasera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él tendrá mucho calor mañana",
+   "italiano": "Lui avrà molto caldo domani",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá apuro a la mañana",
+   "italiano": "Lei avrà fretta la mattina",
+   "pista": "a la mañana = la mattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él tendrá suerte esta vez",
+   "italiano": "Lui avrà fortuna questa volta",
+   "pista": "esta vez = questa volta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá dolor de cabeza",
+   "italiano": "Lei avrà mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él tendrá muchos libros",
+   "italiano": "Lui avrà molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá una bici nueva",
+   "italiano": "Lei avrà una bici nuova",
+   "pista": "nueva = nuova"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él tendrá clase el lunes",
+   "italiano": "Lui avrà lezione lunedì",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Mi abuela tendrá paciencia",
+   "italiano": "Mia nonna avrà pazienza",
+   "pista": "abuela = nonna"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá treinta años",
+   "italiano": "Lei avrà trent'anni",
+   "pista": "treinta años = trent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Mi papá tendrá un auto nuevo",
+   "italiano": "Mio papà avrà una macchina nuova",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él tendrá ganas de salir",
+   "italiano": "Lui avrà voglia di uscire",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá un examen difícil",
+   "italiano": "Lei avrà un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "El nene tendrá sueño",
+   "italiano": "Il bambino avrà sonno",
+   "pista": "el nene = il bambino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá un hermano menor",
+   "italiano": "Lei avrà un fratello minore",
+   "pista": "menor = minore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él tendrá zapatos nuevos",
+   "italiano": "Lui avrà scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "El nene tendrá una mochila",
+   "italiano": "Il bambino avrà uno zaino",
+   "pista": "mochila = zaino"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Ella tendrá miedo de noche",
+   "italiano": "Lei avrà paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Mi mamá tendrá mucho trabajo",
+   "italiano": "Mia mamma avrà molto lavoro",
+   "pista": "trabajo = lavoro"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Él no tendrá tiempo mañana",
+   "italiano": "Lui non avrà tempo domani",
+   "pista": "mañana = domani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "lui/lei",
+   "espanol": "Mi vecina tendrá un bebé",
+   "italiano": "La mia vicina avrà un bambino",
+   "pista": "vecina = vicina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos mucho calor mañana",
+   "italiano": "Avremo molto caldo domani",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos apuro a la mañana",
+   "italiano": "Avremo fretta la mattina",
+   "pista": "a la mañana = la mattina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos suerte el domingo",
+   "italiano": "Avremo fortuna domenica",
+   "pista": "el domingo = domenica"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos dolor de cabeza",
+   "italiano": "Avremo mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos muchos libros",
+   "italiano": "Avremo molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos dos bicis",
+   "italiano": "Avremo due bici",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos clase el lunes",
+   "italiano": "Avremo lezione lunedì",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos paciencia con todos",
+   "italiano": "Avremo pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos treinta años pronto",
+   "italiano": "Avremo trent'anni presto",
+   "pista": "treinta años = trent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos un auto nuevo",
+   "italiano": "Avremo una macchina nuova",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos ganas de volver",
+   "italiano": "Avremo voglia di tornare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos un examen difícil",
+   "italiano": "Avremo un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos sueño a la tarde",
+   "italiano": "Avremo sonno il pomeriggio",
+   "pista": "a la tarde = il pomeriggio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos un hermano menor",
+   "italiano": "Avremo un fratello minore",
+   "pista": "menor = minore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos zapatos nuevos",
+   "italiano": "Avremo scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos dos mochilas",
+   "italiano": "Avremo due zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos miedo de noche",
+   "italiano": "Avremo paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos mucho trabajo el lunes",
+   "italiano": "Avremo molto lavoro lunedì",
+   "pista": "el lunes = lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "No tendremos tiempo mañana",
+   "italiano": "Non avremo tempo domani",
+   "pista": "mañana = domani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "noi",
+   "espanol": "Tendremos calor esta noche",
+   "italiano": "Avremo caldo stasera",
+   "pista": "esta noche = stasera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "¿Tendrán calor mañana?",
+   "italiano": "Avrete caldo domani?",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán apuro",
+   "italiano": "Avrete fretta",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán suerte el domingo",
+   "italiano": "Avrete fortuna domenica",
+   "pista": "el domingo = domenica"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "¿Tendrán dolor de cabeza?",
+   "italiano": "Avrete mal di testa?",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán muchos libros",
+   "italiano": "Avrete molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán dos bicis",
+   "italiano": "Avrete due bici",
+   "pista": "dos = due"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "¿Tendrán clase el lunes?",
+   "italiano": "Avrete lezione lunedì?",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán paciencia con todos",
+   "italiano": "Avrete pazienza con tutti",
+   "pista": "con todos = con tutti"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán treinta años",
+   "italiano": "Avrete trent'anni",
+   "pista": "treinta años = trent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán un auto nuevo",
+   "italiano": "Avrete una macchina nuova",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "¿Tendrán ganas de volver?",
+   "italiano": "Avrete voglia di tornare?",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán un examen difícil",
+   "italiano": "Avrete un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán sueño temprano",
+   "italiano": "Avrete sonno presto",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán un hermano menor",
+   "italiano": "Avrete un fratello minore",
+   "pista": "menor = minore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán zapatos nuevos",
+   "italiano": "Avrete scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán dos mochilas",
+   "italiano": "Avrete due zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "¿Tendrán miedo de noche?",
+   "italiano": "Avrete paura di notte?",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes tendrán trabajo el lunes",
+   "italiano": "Avrete lavoro lunedì",
+   "pista": "el lunes = lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "Ustedes no tendrán tiempo mañana",
+   "italiano": "Non avrete tempo domani",
+   "pista": "mañana = domani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "voi",
+   "espanol": "¿Tendrán calor esta noche?",
+   "italiano": "Avrete caldo stasera?",
+   "pista": "esta noche = stasera"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán mucho calor",
+   "italiano": "Avranno molto caldo",
+   "pista": "calor = caldo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán apuro mañana",
+   "italiano": "Avranno fretta domani",
+   "pista": "apuro = fretta"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán suerte el domingo",
+   "italiano": "Avranno fortuna domenica",
+   "pista": "el domingo = domenica"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán dolor de cabeza",
+   "italiano": "Avranno mal di testa",
+   "pista": "dolor de cabeza = mal di testa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán muchos libros",
+   "italiano": "Avranno molti libri",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Los nenes tendrán dos bicis",
+   "italiano": "I bambini avranno due bici",
+   "pista": "los nenes = i bambini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán clase el lunes",
+   "italiano": "Avranno lezione lunedì",
+   "pista": "clase = lezione"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Mis abuelos tendrán paciencia",
+   "italiano": "I miei nonni avranno pazienza",
+   "pista": "abuelos = nonni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán treinta años",
+   "italiano": "Avranno trent'anni",
+   "pista": "treinta años = trent'anni"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Mis tíos tendrán un auto nuevo",
+   "italiano": "I miei zii avranno una macchina nuova",
+   "pista": "tíos = zii"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán ganas de volver",
+   "italiano": "Avranno voglia di tornare",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán un examen difícil",
+   "italiano": "Avranno un esame difficile",
+   "pista": "difícil = difficile"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Los nenes tendrán sueño temprano",
+   "italiano": "I bambini avranno sonno presto",
+   "pista": "sueño = sonno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán un hermano menor",
+   "italiano": "Avranno un fratello minore",
+   "pista": "menor = minore"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Las nenas tendrán zapatos nuevos",
+   "italiano": "Le bambine avranno scarpe nuove",
+   "pista": "zapatos = scarpe"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Los nenes tendrán mochilas",
+   "italiano": "I bambini avranno gli zaini",
+   "pista": "mochilas = zaini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán miedo de noche",
+   "italiano": "Avranno paura di notte",
+   "pista": "de noche = di notte"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos tendrán trabajo el lunes",
+   "italiano": "Avranno lavoro lunedì",
+   "pista": "el lunes = lunedì"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Ellos no tendrán tiempo mañana",
+   "italiano": "Non avranno tempo domani",
+   "pista": "mañana = domani"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "futuro_semplice",
+   "persona": "loro",
+   "espanol": "Mis vecinos tendrán un bebé",
+   "italiano": "I miei vicini avranno un bambino",
+   "pista": "vecinos = vicini"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo calor, abro la ventana",
+   "italiano": "Avendo caldo, apro la finestra",
+   "pista": "la ventana = la finestra"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo apuro, salgo corriendo",
+   "italiano": "Avendo fretta, esco di corsa",
+   "pista": "corriendo = di corsa"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo suerte, ganamos",
+   "italiano": "Avendo fortuna, vinciamo",
+   "pista": "ganamos = vinciamo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo dolor de cabeza, descanso",
+   "italiano": "Avendo mal di testa, riposo",
+   "pista": "descanso = riposo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo libros, estudio",
+   "italiano": "Avendo libri, studio",
+   "pista": "libros = libri"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo una bici, voy solo",
+   "italiano": "Avendo una bici, vado da solo",
+   "pista": "solo = da solo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo clase, me levanto temprano",
+   "italiano": "Avendo lezione, mi alzo presto",
+   "pista": "me levanto = mi alzo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo paciencia, todo sale bien",
+   "italiano": "Avendo pazienza, tutto va bene",
+   "pista": "sale bien = va bene"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo tiempo, lavo el auto",
+   "italiano": "Avendo tempo, lavo la macchina",
+   "pista": "auto = macchina"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo un auto, viajamos",
+   "italiano": "Avendo una macchina, viaggiamo",
+   "pista": "viajamos = viaggiamo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo ganas, salimos",
+   "italiano": "Avendo voglia, usciamo",
+   "pista": "ganas = voglia"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo examen, no salgo",
+   "italiano": "Avendo l'esame, non esco",
+   "pista": "examen = esame"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo fiebre, me quedo en casa",
+   "italiano": "Avendo la febbre, resto a casa",
+   "pista": "me quedo = resto"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo hermanos, nunca estoy solo",
+   "italiano": "Avendo fratelli, non sono mai solo",
+   "pista": "hermanos = fratelli"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo zapatos nuevos, camino mejor",
+   "italiano": "Avendo scarpe nuove, cammino meglio",
+   "pista": "mejor = meglio"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo la mochila, me voy",
+   "italiano": "Avendo lo zaino, vado via",
+   "pista": "me voy = vado via"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo frío, tomo un café",
+   "italiano": "Avendo freddo, bevo un caffè",
+   "pista": "tomo = bevo"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo mucho trabajo, vuelvo tarde",
+   "italiano": "Avendo molto lavoro, torno tardi",
+   "pista": "vuelvo = torno"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo plata, compro el libro",
+   "italiano": "Avendo soldi, compro il libro",
+   "pista": "plata = soldi"
+  },
+  {
+   "verbo": "avere",
+   "tiempo": "gerundio",
+   "persona": "-",
+   "espanol": "Teniendo razón, no me callo",
+   "italiano": "Avendo ragione, non sto zitto",
+   "pista": "no me callo = non sto zitto"
   }
  ]
 }
