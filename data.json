@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "verbos": {
     "volere": {
       "traduccion": "querer",
@@ -90,12 +90,12 @@
           "loro": {"italiano": "sono", "espanol": "ellos son/están"}
         },
         "passato_prossimo": {
-          "io": {"italiano": "sono stato", "espanol": "yo fui/estuve"},
-          "tu": {"italiano": "sei stato", "espanol": "tú fuiste/estuviste"},
-          "lui/lei": {"italiano": "è stato", "espanol": "él/ella fue/estuvo"},
-          "noi": {"italiano": "siamo stati", "espanol": "nosotros fuimos/estuvimos"},
-          "voi": {"italiano": "siete stati", "espanol": "ustedes fueron/estuvieron"},
-          "loro": {"italiano": "sono stati", "espanol": "ellos fueron/estuvieron"}
+          "io": {"italiano": "sono stato", "espanol": "yo estuve"},
+          "tu": {"italiano": "sei stato", "espanol": "tú estuviste"},
+          "lui/lei": {"italiano": "è stato", "espanol": "él/ella estuvo"},
+          "noi": {"italiano": "siamo stati", "espanol": "nosotros estuvimos"},
+          "voi": {"italiano": "siete stati", "espanol": "ustedes estuvieron"},
+          "loro": {"italiano": "sono stati", "espanol": "ellos estuvieron"}
         },
         "imperfetto": {
           "io": {"italiano": "ero", "espanol": "yo era/estaba"},
