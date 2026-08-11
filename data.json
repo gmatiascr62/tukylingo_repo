@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "verbos": {
     "volere": {
       "traduccion": "querer",
@@ -120,12 +120,12 @@
       "gerundio": {"italiano": "avendo", "espanol": "teniendo/habiendo"},
       "tiempos": {
         "presente": {
-          "io": {"italiano": "ho", "espanol": "yo tengo/he"},
-          "tu": {"italiano": "hai", "espanol": "tú tienes/has"},
-          "lui/lei": {"italiano": "ha", "espanol": "él/ella tiene/ha"},
-          "noi": {"italiano": "abbiamo", "espanol": "nosotros tenemos/hemos"},
-          "voi": {"italiano": "avete", "espanol": "ustedes tienen/han"},
-          "loro": {"italiano": "hanno", "espanol": "ellos tienen/han"}
+          "io": {"italiano": "ho", "espanol": "yo tengo"},
+          "tu": {"italiano": "hai", "espanol": "tú tienes"},
+          "lui/lei": {"italiano": "ha", "espanol": "él/ella tiene"},
+          "noi": {"italiano": "abbiamo", "espanol": "nosotros tenemos"},
+          "voi": {"italiano": "avete", "espanol": "ustedes tienen"},
+          "loro": {"italiano": "hanno", "espanol": "ellos tienen"}
         },
         "passato_prossimo": {
           "io": {"italiano": "ho avuto", "espanol": "yo tuve/he tenido"},
